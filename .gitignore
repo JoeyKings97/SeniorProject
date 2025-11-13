@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output plots & generated files
+outputs/plots/
+outputs/*.png
+outputs/*.csv
+
+# OS-specific files
+.DS_Store
+Thumbs.db
